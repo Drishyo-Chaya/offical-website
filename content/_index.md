@@ -85,7 +85,7 @@ content_blocks:
         author: Maya Chen
         designation: Brand Director at Luma Labs
         message: >-
-          Astra Studio delivered a campaign that felt cinematic and effortless
+          Drishyo Chaya delivered a campaign that felt cinematic and effortless
           from the very first frame.
       - image_path: /images/testimonial/logo-3.jpg
         author: Luca Rivera

@@ -64,7 +64,7 @@ content_blocks:
         author: Maya Chen
         designation: Brand Director at Luma Labs
         message: >-
-          Astra Studio made the whole production process feel effortless and refined.
+          Drishyo Chaya made the whole production process feel effortless and refined.
       - image_path: /images/testimonial/logo-3.jpg
         author: Luca Rivera
         designation: Marketing Lead at Verve Media
