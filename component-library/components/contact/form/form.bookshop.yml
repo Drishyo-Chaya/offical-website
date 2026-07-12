@@ -10,30 +10,24 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   address:
-    heading: "Office Address"
-    address: "123 Franklin St, Los Angeles, CA 90015"
+    heading: "Studio Address"
+    address: "14 Bright Avenue, Los Angeles, CA 90012"
   phone:
-    heading: "Phone"
-    cell: "(123) 345 - 1234"
+    heading: "Main Phone"
+    cell: "(310) 555-0184"
   email:
-    heading: "Email"
-    email: "hello@example.com"
-  form:
-    heading: "Say Hello"
-    fullName:
-      heading: "Full Name"
-      placeHolder: "Enter First Name"
-    phoneNumber:
-      heading: "Phone number"
-      placeHolder: "Enter Phone Number"
-    email:
-      heading: "Email Address"
-      placeHolder: "Enter Email Address"
-    message:
-      heading: "Your Messages"
-      placeHolder: "Any Message"
-    submitBtn:
-      text: "Send message"
+    heading: "General Email"
+    email: "hello@astrastudio.com"
+  managers:
+    - name: "Aria Moore"
+      designation: "Creative Director"
+      phone: "(310) 555-0148"
+      email: "aria@astrastudio.com"
+    - name: "Noah Bennett"
+      designation: "Production Lead"
+      phone: "(310) 555-0149"
+      email: "noah@astrastudio.com"
+  map_url: "https://www.google.com/maps?q=14%20Bright%20Avenue,%20Los%20Angeles,%20CA%2090012&output=embed"
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Projects
 seo:
   page_description: 
   canonical_url: 
@@ -9,111 +9,85 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: pricing/hero
-    title: A plan for everyone
+    title: A package for every stage of your story
     description: >-
-      Sendit is easy to get started and we have a pricing plan for businesses of
-      all sizes.
+      Whether you need a single launch film or a full campaign rollout, we offer
+      production support that scales with your goals.
   - _bookshop_name: pricing/table
     pricing_tier:
-      - tier: Free
-        description: Everything you need to get started.
-        price: 0
+      - tier: Discovery
+        description: Clarify the idea and shape the creative direction.
+        price: 1500
         hasDiscount: false
-        discountPrice: 0
+        discountPrice: 1500
         isActive: false
         feature:
-          - item: 1 Email Campaign
+          - item: Creative strategy session
             isActive: true
-          - item: 1 Year Premium Support
+          - item: Storyboarding and moodboards
             isActive: true
-          - item: Regular Update for 1 Year
+          - item: Production planning
             isActive: true
-          - item: 90+ Widgets & Extensions
+          - item: Shot list and schedule
             isActive: true
-          - item: 23+ Templates
+          - item: Director notes
             isActive: true
-          - item: Over 800 Section Blocks
-            isActive: false
-          - item: Support
-            isActive: false
-          - item: 3 filters
-            isActive: false
-          - item: Unlimited activity history
-            isActive: false
         btn:
-          link: /#
-          text: Try This Free
-      - tier: Pro
-        description: More collaborative power.
-        price: 199
+          link: /contact/
+          text: Request a Quote
+      - tier: Production
+        description: Full creative execution from planning to shoot day.
+        price: 6500
         hasDiscount: true
-        discountPrice: 125
+        discountPrice: 5500
         isActive: true
         feature:
-          - item: 5 Email Campaigns
+          - item: Director and DP
             isActive: true
-          - item: 1 Year Premium Support
+          - item: Crew and equipment
             isActive: true
-          - item: Regular Update for 1 Year
+          - item: On-set production support
             isActive: true
-          - item: 90+ Widgets & Extensions
+          - item: 4K delivery files
             isActive: true
-          - item: 23+ Templates
+          - item: Post-production scope
             isActive: true
-          - item: Over 800 Section Blocks
-            isActive: true
-          - item: Support
-            isActive: false
-          - item: 3 filters
-            isActive: false
-          - item: Unlimited activity history
-            isActive: false
         btn:
-          link: /#
-          text: Try This Free
-      - tier: Business
-        description: All the bells and whistles.
-        price: 499
+          link: /contact/
+          text: Request a Quote
+      - tier: Campaign
+        description: A complete rollout with editorial and launch assets.
+        price: 12000
         hasDiscount: true
-        discountPrice: 350
+        discountPrice: 9800
         isActive: false
         feature:
-          - item: 20 Email Campaigns
+          - item: Multi-format deliverables
             isActive: true
-          - item: 1 Year Premium Support
+          - item: Editorial and sound design
             isActive: true
-          - item: Regular Update for 1 Year
+          - item: Social cutdowns
             isActive: true
-          - item: 90+ Widgets & Extensions
+          - item: Launch-ready assets
             isActive: true
-          - item: 23+ Templates
-            isActive: true
-          - item: Over 800 Section Blocks
-            isActive: true
-          - item: Support
-            isActive: true
-          - item: 3 filters
-            isActive: true
-          - item: Unlimited activity history
+          - item: Priority turnaround
             isActive: true
         btn:
-          link: /#
-          text: Try This Free
+          link: /contact/
+          text: Request a Quote
   - _bookshop_name: global/faq
     title: Have
-    title_suffix: Questions?
-    description: We're always here to help. Here are the most frequently asked questions.
+    title_suffix: questions?
+    description: We are happy to tailor a package around your timeline, scope, and audience.
     faq:
-      - title: Is there a maximum numbers of emails I can send each month?
-        description: No, the prices include unlimited emails. Send to your heart's content.
-      - title: Where can I find out more information?
-        description: Right here on this website, or contact our support team.
-      - title: Do you have pricing for non-profits?
-        description: >-
-          Yes, contact our support team and we'll get you set up on our
-          non-profit plan.
-      - title: What forms of payment do you accept?
-        description: We accept credit cards, checks, and cash.
-      - title: In which currencies can I make payments?
-        description: All payments are in **USD**.
+      - title: Do you work with brands outside the region?
+        description: Yes, we collaborate with clients locally and internationally.
+      - title: Can you help with concept development?
+        description: Absolutely. We can shape the story before the production begins.
+      - title: Do you offer short-form social content?
+        description: Yes, we create vertical and platform-specific content for launch campaigns.
+      - title: What formats do you deliver?
+        description: We deliver digital files, broadcast-ready exports, and web-optimized versions.
+      - title: How quickly can we begin?
+        description: We usually confirm availability within a few business days.
 ---

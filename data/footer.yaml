@@ -1,18 +1,14 @@
 ---
-logo: /images/footer-logo.svg
+logo: /images/logo.svg
 logo_url: /home
-copyright: "MyCompany. All rights reserved."
+copyright: "Astra Studio. All rights reserved."
 social:
-  - link: "https://www.facebook.com/mycompany"
-    icon: "ph-facebook-logo"
-  - link: "https://www.instagram.com/mycompany"
+  - link: "https://www.instagram.com/astrastudio"
     icon: "ph-instagram-logo"
-  - link: "https://www.twitter.com/mycompany"
-    icon: "ph-twitter-logo"
-  - link: "https://www.github.com/mycompany"
-    icon: "ph-github-logo"
-  - link: "https://www.youtube.com/mycompany"
-    icon: "ph-youtube-logo"
+  - link: "https://www.linkedin.com/company/astrastudio"
+    icon: "ph-linkedin-logo"
+  - link: "https://www.vimeo.com/astrastudio"
+    icon: "ph-video-camera"
 sections:
   -
     title: Main Pages
@@ -20,16 +16,16 @@ sections:
       - link: "/"
         text: "Home"
       - link: "/feature"
-        text: "Feature"
+        text: "Services"
       - link: "/pricing"
-        text: "Price"
+        text: "Projects"
       - link: "/about"
         text: "About"
   -
-    title: "Community"
+    title: "Studio"
     links:
       - link: "/blog"
-        text: "Blog"
+        text: "Journal"
   -
     title: "Company"
     links:

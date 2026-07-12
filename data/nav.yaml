@@ -5,11 +5,11 @@ items:
     enable_dropdown: false
     dropdown:
   - link: /feature/
-    text: Feature
+    text: Services
     enable_dropdown: false
     dropdown:
   - link: /pricing/
-    text: Pricing
+    text: Projects
     enable_dropdown: false
     dropdown:
   - link: /about/
@@ -17,20 +17,20 @@ items:
     enable_dropdown: false
     dropdown:
   - link: /blog/
-    text: Blog
+    text: Journal
     enable_dropdown: true
     dropdown:
       - dropdown_text: All Articles
         dropdown_link: /blog
-      - dropdown_text: Marketing
+      - dropdown_text: Production
         dropdown_link: /categories/marketing
-      - dropdown_text: Technology
+      - dropdown_text: Stories
         dropdown_link: /categories/technology
   - link: /contact/
     text: Contact
     enable_dropdown: false
     dropdown:
-enable_nav_btn: false
+enable_nav_btn: true
 nav_btn:
   link: /contact/
-  text: Get Started
+  text: Book a Shoot
