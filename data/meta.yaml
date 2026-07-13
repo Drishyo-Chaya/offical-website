@@ -1,8 +1,6 @@
-BaseURL: "http://example.org"
+BaseURL: "https://drishyochaya.com"
 site_title: "Drishyo Chaya"
-favicon_icon: "/images/favicon.ico"
-favicon_image: "/images/favicon.png"
+favicon_icon: "/siteicon.png"
+favicon_image: "/siteicon.png"
 description: "A production house creating cinematic commercials, branded films, and visual stories."
-twitter_image: "/images/feature/feature-hero-two.png"
-twitter_site: "@astrastudio"
-image: "/images/feature/feature-hero.png"
+
