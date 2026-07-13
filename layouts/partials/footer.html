@@ -9,9 +9,14 @@
               <img src="{{.logo}}" alt="Drishyo Chaya logo" />
               <span class="fw-semibold">Drishyo Chaya</span>
             </a>
-            <p>
+            <p class="mb-2 text-white fs-5">
               © Copyright <span>{{ dateFormat "2006" now }}</span> {{.copyright}}
             </p>
+            <ul class="list-unstyled mb-4">
+              <li class="mb-2 text-white fs-5">{{.address}}</li>
+              <li class="mb-2"><a href="tel:{{.phone}}" class="text-white fs-5 text-decoration-none">{{.phone}}</a></li>
+              <li><a href="mailto:{{.email}}" class="text-white fs-5 text-decoration-none">{{.email}}</a></li>
+            </ul>
           </div>
           <div class="social-icon">
             <ul class="list-unstyled">
