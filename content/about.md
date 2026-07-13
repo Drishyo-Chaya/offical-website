@@ -56,16 +56,16 @@ content_blocks:
         designation: Founder & Director
         image_path: /images/team/1.jpg
       - name: Mujibur Rahman
-        designation: Head of Cinematography
+        designation: Director of Photography (Head)
         image_path: /images/team/2.jpg
       - name: Arka Barua
         designation: Screen Writer & Head of Content
         image_path: /images/team/3.jpg
       - name: Tiklu Kumar Dey
-        designation: Photography
+        designation: Associate Cinematographer
         image_path: /images/team/4.jpg
       - name: Parta Sarothi
-        designation: Photography
+        designation: Photographer
         image_path: /images/team/5.jpg
       - name: Keyamong Marma
         designation: Head of Production
