@@ -32,9 +32,9 @@ content_blocks:
       - number: 15
         suffix: +
         text: Years of craft
-      - number: 120
+      - number: 80
         text: Projects delivered
-      - number: 8
+      - number: 5
         text: Creative specialists
       - number: 4K
         text: Final delivery
@@ -44,11 +44,11 @@ content_blocks:
       From film sets to edit suites, our crew brings calm leadership and sharp
       creative execution to every production.
     btn:
-      link: https://www.instagram.com/astrastudio
+      link: https://www.facebook.com/Drishyochaya/
       text: Follow our work
     video:
       image_path: /images/works/banner.jpg
-      link: https://vimeo.com/45830194
+      link: https://www.youtube.com/embed/C5z-mL1uQc8?si=_KWELFxVUtBxuHxK
   - _bookshop_name: about/team
     title: Our creative team
     team_members:

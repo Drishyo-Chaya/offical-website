@@ -34,9 +34,9 @@ content_blocks:
         text: Award-winning directors
       - number: 24/7
         text: Production support
-  - _bookshop_name: home/video
-    image_path: /images/works/banner.jpg
-    videoUrl: https://vimeo.com/45830194
+  # - _bookshop_name: home/video
+  #   image_path: /images/works/banner.jpg
+  #   videoUrl: https://vimeo.com/45830194
   - _bookshop_name: global/header
     title: 'What we '
     title_suffix: deliver

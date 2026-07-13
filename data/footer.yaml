@@ -3,12 +3,10 @@ logo: /siteicon.png
 logo_url: /home
 copyright: "Drishyo Chaya. All rights reserved."
 social:
-  - link: "https://www.instagram.com/astrastudio"
-    icon: "ph-instagram-logo"
-  - link: "https://www.linkedin.com/company/astrastudio"
-    icon: "ph-linkedin-logo"
-  - link: "https://www.vimeo.com/astrastudio"
-    icon: "ph-video-camera"
+  - link: "https://www.facebook.com/"
+    icon: "ph-facebook-logo"
+  - link: "https://www.youtube.com/"
+    icon: "ph-youtube-logo"
 sections:
   -
     title: Main Pages

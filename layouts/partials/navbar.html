@@ -105,15 +105,22 @@
                     {{ end }}
                 </ul>
             </div> 
-            {{ if .enable_nav_btn }}
-                <div class="d-none d-lg-block">
+            <div class="d-flex align-items-center gap-2 ms-2 me-2">
+                {{ if .social_links }}
+                    {{ range .social_links }}
+                        <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="text-dark fs-4" aria-label="Social link">
+                            <i class="{{ .icon }}"></i>
+                        </a>
+                    {{ end }}
+                {{ end }}
+                {{ if .enable_nav_btn }}
                     <div class="nav-item">
                     {{ with .nav_btn }}
                     <a href="{{.link}}" class="btn btn-sm btn-links">{{.text}}</a>
                     {{ end }}
                     </div>
-                </div> 
-            {{ end }}
+                {{ end }}
+            </div>
         </div>
     </nav>
 </header>

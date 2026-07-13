@@ -8,29 +8,34 @@ items:
     text: Services
     enable_dropdown: false
     dropdown:
-  - link: /pricing/
-    text: Projects
-    enable_dropdown: false
-    dropdown:
+  # - link: /pricing/
+  #   text: Projects
+  #   enable_dropdown: false
+  #   dropdown:
   - link: /about/
     text: About
     enable_dropdown: false
     dropdown:
-  - link: /blog/
-    text: Journal
-    enable_dropdown: true
-    dropdown:
-      - dropdown_text: All Articles
-        dropdown_link: /blog
-      - dropdown_text: Production
-        dropdown_link: /categories/marketing
-      - dropdown_text: Stories
-        dropdown_link: /categories/technology
+  # - link: /blog/
+  #   text: Journal
+  #   enable_dropdown: true
+  #   dropdown:
+  #     - dropdown_text: All Articles
+  #       dropdown_link: /blog
+  #     - dropdown_text: Production
+  #       dropdown_link: /categories/marketing
+  #     - dropdown_text: Stories
+  #       dropdown_link: /categories/technology
   - link: /contact/
     text: Contact
     enable_dropdown: false
     dropdown:
-enable_nav_btn: true
+enable_nav_btn: false
 nav_btn:
   link: /contact/
   text: Book a Shoot
+social_links:
+  - link: https://www.facebook.com/Drishyochaya/
+    icon: ph-facebook-logo
+  - link: https://www.youtube.com/@Drishyochaya
+    icon: ph-youtube-logo
