@@ -28,12 +28,12 @@ content_blocks:
       - number: 15
         suffix: +
         text: Years of experience
-      - number: 120
-        text: Campaigns delivered
-      - number: 8
-        text: Award-winning directors
-      - number: 24/7
-        text: Production support
+      - number: 80
+        text: Projects delivered
+      - number: 7
+        text: Creative specialists
+      - number: 4K
+        text: Final delivery
   # - _bookshop_name: home/video
   #   image_path: /images/works/banner.jpg
   #   videoUrl: https://vimeo.com/45830194
