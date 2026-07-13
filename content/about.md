@@ -52,27 +52,27 @@ content_blocks:
   - _bookshop_name: about/team
     title: Our creative team
     team_members:
-      - name: Iftekhar Ahamad Saimon
+      - name: Iftekhar Ahmad Saimon
         designation: Founder & Director
         image_path: /images/team/1.jpg
       - name: Mujibur Rahman
         designation: Head of Cinematography
         image_path: /images/team/2.jpg
       - name: Arka Barua
-        designation: Screen Writer & Head of Production
+        designation: Screen Writer & Head of Content
         image_path: /images/team/3.jpg
       - name: Tiklu Kumar Dey
-        designation: Director of Photography
+        designation: Photography
         image_path: /images/team/4.jpg
-      #- name: Elena Ford
-      #  designation: Editor
-      #  image_path: /images/team/5.jpg
-      # - name: Yusuf Khan
-      #   designation: Motion Designer
-      #   image_path: /images/team/6.jpg
-      # - name: Maya Ortiz
-      #   designation: Sound & Mix
-      #   image_path: /images/team/7.jpg
+      - name: Parta Sarothi
+        designation: Photography
+        image_path: /images/team/5.jpg
+      - name: Keyamong Marma
+        designation: Head of Production
+        image_path: /images/team/6.jpg
+      - name: Lotus Dashgupta
+        designation: Marketing Executive
+        image_path: /images/team/7.jpg
       # - name: Theo Grant
       #   designation: Creative Strategist
       #   image_path: /images/team/8.jpg
