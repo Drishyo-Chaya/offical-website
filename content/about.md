@@ -52,28 +52,28 @@ content_blocks:
   - _bookshop_name: about/team
     title: Our creative team
     team_members:
-      - name: Nina Alvarez
+      - name: Iftekhar Ahamad Saimon
         designation: Founder & Director
         image_path: /images/team/1.jpg
-      - name: Daniel Brooks
-        designation: Producer
+      - name: Mujibur Rahman
+        designation: Head of Cinematography
         image_path: /images/team/2.jpg
-      - name: Priya Singh
-        designation: Head of Production
+      - name: Arka Barua
+        designation: Screen Writer & Head of Production
         image_path: /images/team/3.jpg
-      - name: Mateo Cruz
+      - name: Tiklu Kumar Dey
         designation: Director of Photography
         image_path: /images/team/4.jpg
-      - name: Elena Ford
-        designation: Editor
-        image_path: /images/team/5.jpg
-      - name: Yusuf Khan
-        designation: Motion Designer
-        image_path: /images/team/6.jpg
-      - name: Maya Ortiz
-        designation: Sound & Mix
-        image_path: /images/team/7.jpg
-      - name: Theo Grant
-        designation: Creative Strategist
-        image_path: /images/team/8.jpg
+      #- name: Elena Ford
+      #  designation: Editor
+      #  image_path: /images/team/5.jpg
+      # - name: Yusuf Khan
+      #   designation: Motion Designer
+      #   image_path: /images/team/6.jpg
+      # - name: Maya Ortiz
+      #   designation: Sound & Mix
+      #   image_path: /images/team/7.jpg
+      # - name: Theo Grant
+      #   designation: Creative Strategist
+      #   image_path: /images/team/8.jpg
 ---

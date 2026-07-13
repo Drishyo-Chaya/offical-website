@@ -33,29 +33,29 @@ content_blocks:
       link: /contact/
       text: Talk to Us
     reversed: false
-  - _bookshop_name: global/feature
-    image_path: /images/feature/feature-card-two.png
-    title: Motion and social content
-    description: >-
-      Short-form content that feels elegant, fast, and designed for platforms
-      where attention matters.
-    btn:
-      link: /contact/
-      text: Talk to Us
-    reversed: true
-  - _bookshop_name: global/feature
-    image_path: /images/feature/feature-card-three.png
-    title: Editing and post-production
-    description: >-
-      Color, sound, animation, and editorial refinement that elevate raw footage
-      into a polished final story.
-    btn:
-      link: /contact/
-      text: Talk to Us
-    reversed: false
-  - _bookshop_name: global/testimonial
-    title: A calm, creative
-    title_suffix: process
+  # - _bookshop_name: global/feature
+  #   image_path: /images/feature/feature-card-two.png
+  #   title: Motion and social content
+  #   description: >-
+  #     Short-form content that feels elegant, fast, and designed for platforms
+  #     where attention matters.
+  #   btn:
+  #     link: /contact/
+  #     text: Talk to Us
+  #   reversed: true
+  # - _bookshop_name: global/feature
+  #   image_path: /images/feature/feature-card-three.png
+  #   title: Editing and post-production
+  #   description: >-
+  #     Color, sound, animation, and editorial refinement that elevate raw footage
+  #     into a polished final story.
+  #   btn:
+  #     link: /contact/
+  #     text: Talk to Us
+  #   reversed: false
+  # - _bookshop_name: global/testimonial
+  #   title: A calm, creative
+  #   title_suffix: process
     description: >-
       We bring structure and energy to each project so your team can focus on the
       message while we handle the execution.

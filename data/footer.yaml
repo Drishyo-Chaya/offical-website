@@ -15,15 +15,15 @@ sections:
         text: "Home"
       - link: "/feature"
         text: "Services"
-      - link: "/pricing"
-        text: "Projects"
+      # - link: "/pricing"
+      #   text: "Projects"
       - link: "/about"
         text: "About"
-  -
-    title: "Studio"
-    links:
-      - link: "/blog"
-        text: "Journal"
+  # -
+  #   title: "Studio"
+  #   links:
+  #     - link: "/blog"
+  #       text: "Journal"
   -
     title: "Company"
     links:

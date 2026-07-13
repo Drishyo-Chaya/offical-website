@@ -54,48 +54,48 @@ content_blocks:
       link: /feature/
       text: Explore Services
     reversed: false
-  - _bookshop_name: global/feature
-    image_path: /images/feature/feature-card-two.png
-    title: Branded content
-    description: >-
-      Scroll-stopping films and social-first content that feel premium, human,
-      and built for modern audiences.
-    btn:
-      link: /feature/
-      text: Explore Services
-    reversed: true
-  - _bookshop_name: global/feature
-    image_path: /images/feature/feature-card-three.png
-    title: Post-production polish
-    description: >-
-      From editing and sound to animation and color, we refine every frame so
-      your story lands beautifully.
-    btn:
-      link: /feature/
-      text: Explore Services
-    reversed: false
-  - _bookshop_name: global/testimonial
-    title: Trusted by
-    title_suffix: ambitious brands
-    description: >-
-      Clients return to us for refined storytelling, dependable production,
-      and a calm creative process.
-    slider:
-      - image_path: /images/testimonial/logo-2.jpg
-        author: Maya Chen
-        designation: Brand Director at Luma Labs
-        message: >-
-          Drishyo Chaya delivered a campaign that felt cinematic and effortless
-          from the very first frame.
-      - image_path: /images/testimonial/logo-3.jpg
-        author: Luca Rivera
-        designation: Marketing Lead at Verve Media
-        message: >-
-          The team brought clarity, speed, and creative polish to every shoot.
-      - image_path: /images/testimonial/logo-4.jpg
-        author: Sara Malik
-        designation: Founder at Studio North
-        message: >-
-          Our final film looked premium, cinematic, and perfectly aligned with
-          our brand story.
+  # - _bookshop_name: global/feature
+  #   image_path: /images/feature/feature-card-two.png
+  #   title: Branded content
+  #   description: >-
+  #     Scroll-stopping films and social-first content that feel premium, human,
+  #     and built for modern audiences.
+  #   btn:
+  #     link: /feature/
+  #     text: Explore Services
+  #   reversed: true
+  # - _bookshop_name: global/feature
+  #   image_path: /images/feature/feature-card-three.png
+  #   title: Post-production polish
+  #   description: >-
+  #     From editing and sound to animation and color, we refine every frame so
+  #     your story lands beautifully.
+  #   btn:
+  #     link: /feature/
+  #     text: Explore Services
+  #   reversed: false
+  # - _bookshop_name: global/testimonial
+  #   title: Trusted by
+  #   title_suffix: ambitious brands
+  #   description: >-
+  #     Clients return to us for refined storytelling, dependable production,
+  #     and a calm creative process.
+  #   slider:
+  #     - image_path: /images/testimonial/logo-2.jpg
+  #       author: Maya Chen
+  #       designation: Brand Director at Luma Labs
+  #       message: >-
+  #         Drishyo Chaya delivered a campaign that felt cinematic and effortless
+  #         from the very first frame.
+  #     - image_path: /images/testimonial/logo-3.jpg
+  #       author: Luca Rivera
+  #       designation: Marketing Lead at Verve Media
+  #       message: >-
+  #         The team brought clarity, speed, and creative polish to every shoot.
+  #     - image_path: /images/testimonial/logo-4.jpg
+  #       author: Sara Malik
+  #       designation: Founder at Studio North
+  #       message: >-
+  #         Our final film looked premium, cinematic, and perfectly aligned with
+  #         our brand story.
 ---
