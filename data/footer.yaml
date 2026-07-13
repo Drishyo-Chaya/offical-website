@@ -1,11 +1,11 @@
 ---
-logo: /siteicon.png
+logo: /images/logo-white-1.png
 logo_url: /home
 copyright: "Drishyo Chaya. All rights reserved."
 social:
-  - link: "https://www.facebook.com/"
+  - link: "https://www.facebook.com/Drishyochaya"
     icon: "ph-facebook-logo"
-  - link: "https://www.youtube.com/"
+  - link: "https://www.youtube.com/@Drishyochaya"
     icon: "ph-youtube-logo"
 sections:
   -
