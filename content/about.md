@@ -64,7 +64,7 @@ content_blocks:
       - name: Tiklu Kumar Dey
         designation: Associate Cinematographer
         image_path: /images/team/4.jpg
-      - name: Parta Sarothi
+      - name: Partha Sarathi
         designation: Photographer
         image_path: /images/team/5.jpg
       - name: Keyamong Marma

@@ -33,7 +33,7 @@ content_blocks:
       - number: 7
         text: Creative specialists
       - number: 4K
-        text: Final delivery
+        text: Output
   # - _bookshop_name: home/video
   #   image_path: /images/works/banner.jpg
   #   videoUrl: https://vimeo.com/45830194
